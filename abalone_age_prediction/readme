@@ -1,1 +1,1 @@
-
+The objective of the abalone age prediction project is to generate MLP classifier models with different hyper-parameters to predict abalones' ages in several observations and decide which model is best equipped for the prediction task through accuracy comparison.
