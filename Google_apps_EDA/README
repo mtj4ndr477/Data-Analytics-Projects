@@ -1,1 +1,57 @@
+# Google Play App Store Analysis
+
+## Overview
+This project analyses various aspects of applications available on the Google Play App Store. The analysis covers application categories, user preferences, pricing models, revenue generation, age demographics, and sentiment scores.
+
+## Research Questions and Key Findings
+
+### 1. Most Available Application Category
+- The **Family** category has the highest number of applications available at **18.97%** of total apps.
+
+### 2. Most Popular Application Category
+- Despite having the highest number of apps, the Family category is not the most popular.
+- The **Game** category is the most popular among users.
+
+### 3. Free vs. Paid Applications
+- Google Play App Store has more **free applications** than paid applications.
+- Categories with **100% free apps**: **House & Home, Beauty, Comics**.
+- **Personalisation** has the highest proportion of **paid applications** at **21.54%**.
+
+### 4. User Download Preferences
+- Users overwhelmingly prefer downloading **free apps**.
+- **Likelihood of downloading a free app:** **99.89%**.
+- **Likelihood of downloading a paid app:** **0.11%**.
+
+### 5. Largest Age Demographic
+- **General audience** is the largest age demographic, accounting for **81.83%** of available apps.
+- Some categories, such as **Social, Books & Reference, and Comics**, have a **13+** age demographic, while **Dating apps** are **17+**.
+
+### 6. Relationship Between App Ratings and User Sentiments
+- No significant correlation between **app ratings** and **sentiment scores**.
+- Some users provide **negative sentiment** scores despite giving **high ratings**.
+
+### 7. Sentiment Score vs. Subjectivity Score
+- There is a correlation between **sentiment score** and **subjectivity score**.
+- Overall, **most sentiment reviews are subjective**.
+
+### 8. Revenue from Paid Apps
+- **Total revenue from paid apps:** **$291.16 million**.
+- **Highest revenue-generating category:** **Family**.
+
+### 9. Age Demographics and Revenue Contribution
+- **Family category:** **Age 10 and above** generates the highest revenue.
+- **Lifestyle category:** **General audience** generates the highest revenue.
+- **Game category:** **Age 17 and above** generates the highest revenue.
+
+## Conclusion
+This analysis highlights trends in app availability, user preferences, revenue distribution, and sentiment analysis on the Google Play App Store. The findings suggest that:
+- A high number of apps in a category does not guarantee its popularity.
+- Free applications dominate downloads, with users showing low interest in paid apps.
+- Revenue is concentrated in specific categories, with certain age demographics contributing more to app purchases.
+
+## Data Sources
+The analysis is based on data collected from the Google Play App Store, including app metadata, user reviews, pricing models, and revenue estimates.
+
+
+
 
