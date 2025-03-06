@@ -25,18 +25,13 @@ Technologies Used
 - R (for analysis and visualization)
 - Libraries: `dplyr`, `readr`, `MASS`, `GGally`, `e1071`, `Hotelling`
 
-Installation & Usage
+Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/abalone-analysis.git
-   cd abalone-analysis
-   ```
-2. Install required R packages:
+1. Install required R packages:
    ```r
    install.packages(c("dplyr", "readr", "MASS", "GGally", "e1071", "Hotelling"))
    ```
-3. Run the analysis using RStudio or an R notebook.
+2. Run the analysis using RStudio or an R notebook.
 
 Results & Findings
 
@@ -47,7 +42,6 @@ Results & Findings
 Contributors
 
 - Melvin Tjandradjaja
-- University of New South Wales (ZZSC5855 - Multivariate Analysis for Data Scientists)
 
 
 
