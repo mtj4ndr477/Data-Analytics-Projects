@@ -1,2 +1,48 @@
-The objective of this project is to generate MLP classifier models with different hyper-parameters to predict abalones' ages using 
-their features and decide which model is best equipped for the prediction task through accuracy comparison.
+Abalone Age Category Classification
+
+Overview
+
+This project focuses on classifying abalone based on their age using machine learning models. The goal is to predict whether an abalone belongs to one of several predefined age groups based on its physical attributes.
+
+Dataset
+The Abalone dataset contains biological measurements of abalones, with the target variable being the age category, derived from the number of rings in the shell.
+
+Analysis & Methodology
+
+1. Data Preprocessing
+   - Handling missing values and feature transformations.
+   - Converting categorical variables into numerical format.
+   - Scaling numerical features.
+
+2. Feature Engineering
+   - Selecting relevant features for classification.
+
+3. Machine Learning Models Used
+   - Neural Networks (Multi-layer Perceptron - MLP)
+   - Various optimizers and hyperparameters tested
+
+4. Evaluation Metrics
+   - Accuracy
+   - Confusion Matrix
+   - Precision, Recall, F1-score
+   - ROC-AUC (if applicable)
+
+Technologies Used
+- Python (for data processing and modeling)
+- Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `tensorflow/keras`
+
+Installation & Usage
+
+Open and run the Jupyter Notebook:
+
+jupyter notebook Abalone_Multiple_Classification.ipynb
+   
+Results & Findings
+- Performance comparison of different models.
+- Insights into feature importance and classification performance.
+- Final model accuracy and recommendations.
+
+Contributors
+- Melvin Tjandradjaja
+
+
