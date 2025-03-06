@@ -1,1 +1,60 @@
+# Abalone Data Analysis
+
+## Overview
+
+This project explores the **Abalone dataset**, performing **multivariate analysis** to understand the relationships between different biological measurements and predict the age of abalone using **machine learning models**.
+
+## Dataset
+
+The **Abalone dataset** contains biological attributes of abalones and aims to predict their age based on physical measurements.
+
+## Analysis & Methodology
+
+The project follows these key steps:
+
+1. **Data Preprocessing**: Cleaning, handling missing values, and feature engineering.
+2. **Exploratory Data Analysis (EDA)**: Visualizing and understanding feature distributions.
+3. **Feature Selection & Transformation**: Selecting relevant variables for modeling.
+4. **Machine Learning Models**:
+   - Regression models for age prediction
+   - Classification models (if applicable)
+   - Performance evaluation
+
+## Technologies Used
+
+- **R** (for analysis and visualization)
+- **Libraries**: `dplyr`, `readr`, `MASS`, `GGally`, `e1071`, `Hotelling`
+
+## Installation & Usage
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/abalone-analysis.git
+   cd abalone-analysis
+   ```
+2. Install required R packages:
+   ```r
+   install.packages(c("dplyr", "readr", "MASS", "GGally", "e1071", "Hotelling"))
+   ```
+3. Run the analysis using **RStudio** or an R notebook.
+
+## Results & Findings
+
+- Key insights from the data analysis.
+- Model performance metrics.
+- Any recommendations or conclusions drawn from the study.
+
+## Contributors
+
+- **Melvin Tjandradjaja**
+- University of New South Wales (ZZSC5855 - Multivariate Analysis for Data Scientists)
+
+## License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+Feel free to update this README with additional details, visualizations, and findings from your analysis!
+
 
