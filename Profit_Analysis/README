@@ -3,8 +3,9 @@ Profit Analysis Portfolio Project
 Overview
 
 This project provides an in-depth analysis of profit performance for a superstore. 
-The goal is to uncover key trends and drivers of profit and loss across various dimensions such as regions, customer segments, and product categories. 
-The analysis also includes predictive modeling to forecast profit gains and identify areas for improvement.
+The goal is to uncover key trends and drivers of profit and loss across various dimensions such as regions, 
+customer segments, and product categories. The analysis also includes predictive modeling to forecast 
+profit gains and identify areas for improvement.
 
 Data
 
@@ -53,6 +54,7 @@ Execute the cells in the notebook sequentially to reproduce the full analysis.
 
 Conclusion
 
-This portfolio project demonstrates a comprehensive approach to profit analysis by combining descriptive and diagnostic analytics with predictive modeling. 
-The insights drawn from the data provide actionable recommendations for improving business performance across various dimensions. 
+This portfolio project demonstrates a comprehensive approach to profit analysis by combining 
+descriptive and diagnostic analytics with predictive modeling. The insights drawn from the 
+data provide actionable recommendations for improving business performance across various dimensions. 
 Feedback and suggestions for further improvements are welcome.
